@@ -1,7 +1,23 @@
 # DarkCloud
-SoundCloud Dark Theme
+A darker theme for SoundCloud.
 
-It's exactly 06:44 AM so I'm going to sleep now.
-Will write this when I wake up!
+https://chrome.google.com/webstore/detail/darkcloud/mjicdmidmifkppilbbcanmnljpffmfmh
 
-Sooooo tired, but I'm glad I was able to finish this.
+This extension will help your SoundCloud look way cooler than it normally is.
+Who doesn't like the darker taste of websites?
+
+Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
+
+![alt text](https://github.com/c0bras/DarkCloud/blob/master/1.0.1/screencroped.png)
+
+Feel absolutely free to contribute to it, I will be more than happy.
+
+Also, if you found a bug, please report it back to me.
+
+## Changelog:
+
+14.09.2017: v1.0.1
+- Fixed some bugs in some pages that were still white.
+
+14.09.2017: v1.0.0
+- Released the extension. Hurray!
