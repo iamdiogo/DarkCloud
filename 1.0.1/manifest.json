@@ -1,0 +1,27 @@
+{
+  "name": "DarkCloud",
+  "description": "SoundCloud Dark Theme",
+  "version": "1.0.1",
+  "permissions": ["activeTab"],
+  "icons": {"128": "darklogo.png" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+"content_scripts": [
+  {
+    "matches": ["https://soundcloud.com/*"],
+    "js": ["background.js"],
+    "run_at": "document_start"
+  }
+],
+  "browser_action": {
+    "default_title": "DarkCloud",
+    "default_icon":"darklogo.png"
+  },
+
+  "manifest_version": 2,
+  "web_accessible_resources": [
+    "css_dark.css"
+  ]
+}
