@@ -16,6 +16,9 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+15.09.2017: v1.0.2
+- Fixed the upload page, was still white.
+
 14.09.2017: v1.0.1
 - Fixed some bugs in some pages that were still white.
 
