@@ -16,6 +16,9 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+17.10.2017: v1.0.3
+- Seriously optimized the extension (thanks to danfelix).
+
 15.09.2017: v1.0.2
 - Fixed the upload page, was still white.
 
