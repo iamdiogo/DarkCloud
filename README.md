@@ -16,6 +16,10 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+28.01.2018: v1.0.4
+- Fixed messages page that was still white.
+- Fixed a bug where a panel was invisible.
+
 17.10.2017: v1.0.3
 - Seriously optimized the extension (thanks to danfelix).
 
