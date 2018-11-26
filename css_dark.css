@@ -18,7 +18,8 @@ a.playbackSoundBadge__lightLink:hover, a.playbackSoundBadge__lightLink:focus{fil
 .g-tabs-link, .g-tabs-link:visited{color: #8b9191 !important}
 .g-tabs-link.active{color: #f50 !important}
 .sc-button-small.sc-button-icon:not(.sc-button-stretch-icon), .sc-button-small.sc-button-responsive:not(.sc-button-stretch-icon){background-color: #000 !important}
-.soundActions{background-color: #161719 !important}
+.sound__soundActions{background-color: transparent !important}
+.soundActions{background-color: transparent !important}
 /*.soundTitle__title .sc-truncate{filter: invert(100%) !important;}*/
 .soundBadge .soundTitle__username{filter: invert(100%) !important;}
 a.sc-link-dark{filter: invert(100%) !important;}
@@ -116,3 +117,17 @@ textarea, select, input{background: #000 !important}
 .conversation__actions{background: #0B0C0C !important;box-shadow: 0 1px 0 #F85402 !important;}
 .inboxItem:hover, .inboxItem:focus, .inboxItem.unread, .inboxItem.active{background-color: #0B0C0C !important;}
 .inbox__item:before{background-color: #F85402 !important;}
+.g-type-marketing-header{color: black !important;}
+.g-type-marketing-info{color: black !important;}
+.playControls__castControl>button{filter: invert(100%) !important;}
+.removeFromNextUp:hover, .removeFromNextUp{background-color: white !important;}
+.queue__hide:focus, .queue__hide:hover, .queue__hide{background-color: white !important;}
+.queue__dragCover .m-active {background-color: black !important;}
+.trackItem.hover, .trackItem.active{background-color: black !important;}
+.trackItem:not(.m-disabled).hover .trackItem__additional {background: linear-gradient(to right,rgba(11,12,12,.1),black 17px) !important;}
+.trackItem:not(.m-disabled).active .trackItem__additional {background: linear-gradient(to right,rgba(11,12,12,.1),black 17px) !important;}
+.sc-snippet-badge-small{filter: invert(100%) !important;}
+.compactTrackListItem.clickToPlay.active{background-color: black !important;}
+.compactTrackListItem.clickToPlay:hover{background-color: #070707 !important;}
+.compactTrackListItem.clickToPlay.active .compactTrackListItem__additional{background: black !important;}
+.compactTrackListItem.clickToPlay:hover .compactTrackListItem__additional{background: #070707 !important;}

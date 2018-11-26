@@ -8,13 +8,17 @@ Who doesn't like the darker taste of websites?
 
 Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
 
-![alt text](https://github.com/c0bras/DarkCloud/blob/master/images/screencroped.png)
+![alt text](https://github.com/iamdiogo/DarkCloud/blob/master/images/screencroped.png)
 
 Feel absolutely free to contribute to it, I will be more than happy.
 
 Also, if you found a bug, please report it back to me.
 
 ## Changelog:
+
+26.11.2018: v1.0.5
+- Fixed white components on playlist pages.
+- Fixed some general broken UI components.
 
 28.01.2018: v1.0.4
 - Fixed messages page that was still white.
