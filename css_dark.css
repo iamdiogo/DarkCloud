@@ -131,3 +131,14 @@ textarea, select, input{background: #000 !important}
 .compactTrackListItem.clickToPlay:hover{background-color: #070707 !important;}
 .compactTrackListItem.clickToPlay.active .compactTrackListItem__additional{background: black !important;}
 .compactTrackListItem.clickToPlay:hover .compactTrackListItem__additional{background: #070707 !important;}
+.activeUpload.m-hq-upload-note .activeUpload__hqNote{background-color: #0002 !important;}
+.activeUpload__form{background-color: transparent !important;}
+.suggestedTags{background-color: black !important;}
+.suggestedTags__listItem.selected{background-color: #ff7000 !important;}
+.tagInput__wrapper{background-color: transparent !important;}
+.sc-button-dropdown:focus:not(.sc-button-disabled):not(:disabled){box-shadow: 0 0 0 4px #353535 !important;}
+.g-upsell-container{background: transparent !important;}
+.ui-datepicker{background: #212121 !important;}
+.activeUpload__shareContainer{background-color: transparent !important;}
+.audibleEditForm__form{background-color: transparent !important;}
+.audibleEditForm__audio{background-color: #191919 !important;}

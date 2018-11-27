@@ -16,6 +16,9 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+27.11.2018: v1.0.6
+- Fixed UI components for adding and editing songs.
+
 26.11.2018: v1.0.5
 - Fixed white components on playlist pages.
 - Fixed some general broken UI components.
