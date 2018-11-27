@@ -1,4 +1,6 @@
 # DarkCloud
+![users](https://img.shields.io/chrome-web-store/d/mjicdmidmifkppilbbcanmnljpffmfmh.svg?label=users)
+
 A darker theme for SoundCloud.
 
 https://chrome.google.com/webstore/detail/darkcloud/mjicdmidmifkppilbbcanmnljpffmfmh
@@ -8,7 +10,7 @@ Who doesn't like the darker taste of websites?
 
 Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
 
-![alt text](https://github.com/iamdiogo/DarkCloud/blob/master/images/screencroped.png)
+![screenshot](https://github.com/iamdiogo/DarkCloud/blob/master/images/screencroped.png)
 
 Feel absolutely free to contribute to it, I will be more than happy.
 
