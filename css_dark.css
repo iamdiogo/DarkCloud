@@ -144,3 +144,4 @@ textarea, select, input{background: #000 !important}
 .activeUpload__shareContainer{background-color: transparent !important;}
 .audibleEditForm__form{background-color: transparent !important;}
 .audibleEditForm__audio{background-color: #191919 !important;}
+.commentPopover.darkText .commentPopover__body{color: #8d8d8d !important;}
