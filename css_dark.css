@@ -131,6 +131,8 @@ textarea, select, input{background: #000 !important}
 .compactTrackListItem.clickToPlay:hover{background-color: #070707 !important;}
 .compactTrackListItem.clickToPlay.active .compactTrackListItem__additional{background: black !important;}
 .compactTrackListItem.clickToPlay:hover .compactTrackListItem__additional{background: #070707 !important;}
+.compactTrackListItem__trackTitle{color: #757575 !important;}
+.compactTrackListItem__user{color: #c0c0c0 !important;}
 .activeUpload.m-hq-upload-note .activeUpload__hqNote{background-color: #0002 !important;}
 .activeUpload__form{background-color: transparent !important;}
 .suggestedTags{background-color: black !important;}
@@ -142,3 +144,4 @@ textarea, select, input{background: #000 !important}
 .activeUpload__shareContainer{background-color: transparent !important;}
 .audibleEditForm__form{background-color: transparent !important;}
 .audibleEditForm__audio{background-color: #191919 !important;}
+.commentPopover.darkText .commentPopover__body{color: #8d8d8d !important;}
