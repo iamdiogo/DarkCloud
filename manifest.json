@@ -1,7 +1,7 @@
 {
   "name": "DarkCloud",
   "description": "SoundCloud Dark Theme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "permissions": ["activeTab"],
   "icons": {"128": "darklogo.png" },
   "background": {
