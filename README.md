@@ -22,6 +22,9 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+23.04.2019: v1.0.7
+- Compact tracklists and comments pop ups are a little brighter for readability (thanks to MyNameIsJulian).
+
 27.11.2018: v1.0.6
 - Fixed UI components for adding and editing songs.
 
