@@ -145,3 +145,4 @@ textarea, select, input{background: #000 !important}
 .audibleEditForm__form{background-color: transparent !important;}
 .audibleEditForm__audio{background-color: #191919 !important;}
 .commentPopover.darkText .commentPopover__body{color: #8d8d8d !important;}
+.truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;}
