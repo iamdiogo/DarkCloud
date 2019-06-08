@@ -150,3 +150,4 @@ textarea, select, input{background: #000 !important}
 .newItemBadge{width: 120% !important; height: 120% !important;} /* Removes ugly border from notification icon alert (2/2) */
 .dashbox__titleLine{color: #fff !important;} /* Fixes dark text in dashbox (1/2) */
 .dashbox__bodyLine{color: #ccc !important;} /* Fixes dark text in dashbox (2/2) */
+.truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;} /* Gradient in truncated user description */
