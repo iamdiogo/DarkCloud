@@ -42,7 +42,7 @@ a.sc-link-dark{filter: invert(100%) !important;}
 .commentForm__wrapper{background: unset !important; border: 0px solid #000 !important}
 .commentForm__input{background: #111214; border: 1px solid #303133 !important}
 textarea, select, button, input{color: #fff !important}
-.g-dark textarea, .g-dark select, .g-dark input[type="text"], .g-dark input[type="password"], .g-dark input[type="search"]{color: #666 !important}
+.g-dark textarea, .g-dark select, .g-dark input[type="text"], .g-dark input[type="password"], .g-dark input[type="search"]{color: #ccc !important}
 .g-tabs{border-bottom: 1px solid #44494f !important}
 .sc-tag, .sc-tag:visited{background: #1e1f21 !important;border:1px solid #353535 !important}
 .sc-button-medium.sc-button-share:before{filter: invert(100%) !important}
@@ -145,4 +145,9 @@ textarea, select, input{background: #000 !important}
 .audibleEditForm__form{background-color: transparent !important;}
 .audibleEditForm__audio{background-color: #191919 !important;}
 .commentPopover.darkText .commentPopover__body{color: #8d8d8d !important;}
-.truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;}
+.paging-eof{filter: invert(100%) !important;} /* Makes logo at the bottom of pages dark */
+.newItemBadge.newItems__some{border: none !important;} /* Removes ugly border from notification icon alert (1/2) */
+.newItemBadge{width: 120% !important; height: 120% !important;} /* Removes ugly border from notification icon alert (2/2) */
+.dashbox__titleLine{color: #fff !important;} /* Fixes dark text in dashbox (1/2) */
+.dashbox__bodyLine{color: #ccc !important;} /* Fixes dark text in dashbox (2/2) */
+.truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;} /* Gradient in truncated user description */
