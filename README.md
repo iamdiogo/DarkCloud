@@ -22,6 +22,10 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+11.06.2019: v1.0.8
+- Minor bug fixes: bottom soundcloud logo, notification alert border, text in dashbox (thanks to MyNameIsJulian).
+- Fixed gradient on long user descriptions (thanks to balbinus).
+
 23.04.2019: v1.0.7
 - Compact tracklists and comments pop ups are a little brighter for readability (thanks to MyNameIsJulian).
 
