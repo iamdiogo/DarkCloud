@@ -120,7 +120,7 @@ textarea, select, input{background: #000 !important}
 .g-type-marketing-header{color: black !important;}
 .g-type-marketing-info{color: black !important;}
 .playControls__castControl>button{filter: invert(100%) !important;}
-.removeFromNextUp:hover, .removeFromNextUp{background-color: white !important;}
+.removeFromNextUp:hover, .removeFromNextUp{background-color: #404040 !important;}
 .queue__hide:focus, .queue__hide:hover, .queue__hide{background-color: white !important;}
 .queue__dragCover .m-active {background-color: black !important;}
 .trackItem.hover, .trackItem.active{background-color: black !important;}
