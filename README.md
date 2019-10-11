@@ -22,6 +22,9 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
+11.10.2019: v1.0.8.1
+- Minor bug fix: interaction area on old album layout (thanks to Franckevicius)
+
 11.06.2019: v1.0.8
 - Minor bug fixes: bottom soundcloud logo, notification alert border, text in dashbox (thanks to MyNameIsJulian).
 - Fixed gradient on long user descriptions (thanks to balbinus).
