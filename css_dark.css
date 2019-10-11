@@ -151,3 +151,4 @@ textarea, select, input{background: #000 !important}
 .dashbox__titleLine{color: #fff !important;} /* Fixes dark text in dashbox (1/2) */
 .dashbox__bodyLine{color: #ccc !important;} /* Fixes dark text in dashbox (2/2) */
 .truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;} /* Gradient in truncated user description */
+.visualSound__wrapper {background-color: #161719 !important;} /* Old style album layout interact area */
