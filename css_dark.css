@@ -152,5 +152,5 @@ textarea, select, input{background: #000 !important}
 .dashbox__bodyLine{color: #ccc !important;} /* Fixes dark text in dashbox (2/2) */
 .truncatedUserDescription.m-overflow.m-collapsed .truncatedUserDescription__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)) !important;} /* Gradient in truncated user description */
 .visualSound__wrapper {background-color: #161719 !important;} /* Old style album layout interact area */
-.readMoreTile__countWrapper{display: none !important;} /* Removes the ugly View all box from Following in Library (broken blur) */
+.readMoreTile__countWrapper{background-color: #e6e6e6 !important;} /* Fixes blur behind View all button as the invert filter breaks it */
 .sc-button-small{font-weight: 500 !important;} /* Make font on small buttons thicker, or its too thin */
