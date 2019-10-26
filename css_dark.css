@@ -154,3 +154,5 @@ textarea, select, input{background: #000 !important}
 .visualSound__wrapper {background-color: #161719 !important;} /* Old style album layout interact area */
 .readMoreTile__countWrapper{background-color: #e6e6e6 !important;} /* Fixes blur behind View all button as the invert filter breaks it */
 .sc-button-small{font-weight: 500 !important;} /* Make font on small buttons thicker, or its too thin */
+.callout__bubble{background-color: #292929 !important;} /* Fixes informational pop-ups shown to new users (1/2) */
+.callout__bubble::before{background-color: black !important;} /* Fixes informational pop-ups shown to new users (2/2) */
