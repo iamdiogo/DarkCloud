@@ -156,3 +156,5 @@ textarea, select, input{background: #000 !important}
 .sc-button-small{font-weight: 500 !important;} /* Make font on small buttons thicker, or its too thin */
 .callout__bubble{background-color: #292929 !important;} /* Fixes informational pop-ups shown to new users (1/2) */
 .callout__bubble::before{background-color: black !important;} /* Fixes informational pop-ups shown to new users (2/2) */
+.quotaMeterWrapper{background-color: unset !important;} /* Fixes free upload limit background */
+.compactTrackList__moreLink:focus, .compactTrackList__moreLink:hover{background-color: black !important; color: white !important} /* Fixes stream playlist expand btn */
