@@ -71,7 +71,7 @@ textarea, select, input{background: #000 !important}
 .header{background: #111111 !important}
 .sc-border-light-top{border-top: 1px solid #44494f !important}
 .profileHeaderBackground{background: #111111 !important}
-.l-fixed-top-one-column>.l-top{background: unset !important}
+.l-fixed-top-one-column>.l-top{background: #161719 !important} /* Fixes profile's likes page header */
 .sc-button-medium.sc-button-message:before{filter: invert(100%) !important;}
 .g-tabs-link:hover, .g-tabs-link:focus{border-color: #fff !important}
 .dropbar__content{background-color: #0c0c0c !important}
