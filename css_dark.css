@@ -158,3 +158,13 @@ textarea, select, input{background: #000 !important}
 .callout__bubble::before{background-color: black !important;} /* Fixes informational pop-ups shown to new users (2/2) */
 .quotaMeterWrapper{background-color: unset !important;} /* Fixes free upload limit background */
 .compactTrackList__moreLink:focus, .compactTrackList__moreLink:hover{background-color: black !important; color: white !important} /* Fixes stream playlist expand btn */
+.l-messages-left.sc-border-box > div {border: none !important;} /* Fix border */
+.l-messages-left .inbox__item::before {display: none;} /* Fix last messages border */
+.l-messages-left.sc-border-box .inbox__listWrapper .inbox__list .g-scrollable-inner {padding-right: 0 !important; margin-right: 30px; width: unset !important; height: unset !important;} /* Fix messages scrollable */
+.l-messages-left.sc-border-box .inbox__listWrapper .inbox__list .lazyLoadingList__list {margin-bottom: 0 !important;} /* Fix bottom margin for messages */
+.conversation__actions {background-color: #0f1010 !important; padding-right: 0; padding-bottom: 32px; height: unset !important; box-sizing: content-box !important;} /* Fix current user header in messages */
+.conversationActions {margin-right: 26px;} /* Fix buttons position */
+.conversationMessage__body {color: #f0f0f0 !important;} /* Fix message color */
+.composeMessage .textfield__input,
+.composeMessage .composeMessage__bottomWrapper {border: none;} /* Fix text input box */
+.composeMessage .composeMessage__bottomWrapper {background-color: transparent;} /* Fix bottom wrapper background color */
