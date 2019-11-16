@@ -168,3 +168,6 @@ textarea, select, input{background: #000 !important}
 .composeMessage .textfield__input,
 .composeMessage .composeMessage__bottomWrapper {border: none;} /* Fix text input box */
 .composeMessage .composeMessage__bottomWrapper {background-color: transparent;} /* Fix bottom wrapper background color */
+::-webkit-scrollbar {width: 2px;} /* Webkit only scrollbar */
+::-webkit-scrollbar-track {background-color: #000;}
+::-webkit-scrollbar-thumb {border-radius: 4px; background-color: #F85402;}
