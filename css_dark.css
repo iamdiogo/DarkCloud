@@ -1,6 +1,6 @@
 /* This is where all the magic happens! */
 
-body{background-color:#0b0c0c !important;color: #fff !important; background-image: unset !important}
+body{color: #fff !important;background: #0b0c0c url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABNgAAABkCAYAAABU8Y1hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAALeSURBVHhe7dgxEYAADMDAggg4/AuFBQXN+r/EQ47rft4BAAAAAFbOvwAAAADAgsEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAACBwQYAAAAAgcEGAAAAAIHBBgAAAABrMx991AIN/iqaoQAAAABJRU5ErkJggg==) repeat-y 50% 0 !important;} /* changed background color and image, which is a *container image* */
 .playControls__inner, .playControls__bg{background-color:#121414 !important;}
 .playControl{filter:invert(100%) !important;}
 .skipControl__previous{filter:invert(100%) !important;}
@@ -165,6 +165,7 @@ textarea, select, input{background: #000 !important}
 .conversation__actions {background-color: #0f1010 !important; padding-right: 0; padding-bottom: 32px; height: unset !important; box-sizing: content-box !important;} /* Fix current user header in messages */
 .conversationActions {margin-right: 26px;} /* Fix buttons position */
 .conversationMessage__body {color: #f0f0f0 !important;} /* Fix message color */
+.conversation__messages {padding-top: 128px !important;} /* Increase messages padding to make a space between user title and messages history */
 .composeMessage .textfield__input,
 .composeMessage .composeMessage__bottomWrapper {border: none;} /* Fix text input box */
 .composeMessage .composeMessage__bottomWrapper {background-color: transparent;} /* Fix bottom wrapper background color */
