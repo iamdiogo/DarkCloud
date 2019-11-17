@@ -1,26 +1,33 @@
 # DarkCloud
 ![users](https://img.shields.io/chrome-web-store/d/mjicdmidmifkppilbbcanmnljpffmfmh.svg?label=users)
+![rating](https://img.shields.io/chrome-web-store/rating-count/mjicdmidmifkppilbbcanmnljpffmfmh?label=rating)
+![stars](https://img.shields.io/chrome-web-store/rating/mjicdmidmifkppilbbcanmnljpffmfmh?label=stars)
 
-A darker theme for SoundCloud.
-
-Chrome:
-https://chrome.google.com/webstore/detail/darkcloud/mjicdmidmifkppilbbcanmnljpffmfmh
-
-Firefox:
-https://addons.mozilla.org/en-US/firefox/addon/darkcloud-original/
+## A darker theme for SoundCloud.
 
 This extension will help your SoundCloud look way cooler than it normally is.
-Who doesn't like the darker taste of websites?
+Who doesn't like the darker taste of websites? Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
 
-Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
+![screenshot](images/screencroped.png)
 
-![screenshot](https://github.com/iamdiogo/DarkCloud/blob/master/images/screencroped.png)
+Feel absolutely free to contribute to it, I will be more than happy. Also, if you found a bug, please report it back to me.
 
-Feel absolutely free to contribute to it, I will be more than happy.
+## Download
 
-Also, if you found a bug, please report it back to me.
+You can download DarkCloud extension from official stores for 
+- *Google Chrome* in [Chrome Web Store](https://chrome.google.com/webstore/detail/darkcloud/mjicdmidmifkppilbbcanmnljpffmfmh)
+- *Mozilla Firefox* on [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/darkcloud-original/) 
+
 
 ## Changelog:
+
+17.11.2019: v1.0.9
+- Major fixes for messages interface
+- Content container now fits the entire page
+
+10.11.2019: v1.0.82
+- Fixed free upload limit background
+- Fixed stream playlist expand button.
 
 11.10.2019: v1.0.8.1
 - Fixed interaction area on old album layout (thanks to Franckevicius)
