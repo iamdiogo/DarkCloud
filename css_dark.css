@@ -158,3 +158,4 @@ textarea, select, input{background: #000 !important}
 .callout__bubble::before{background-color: black !important;} /* Fixes informational pop-ups shown to new users (2/2) */
 .quotaMeterWrapper{background-color: unset !important;} /* Fixes free upload limit background */
 .compactTrackList__moreLink:focus, .compactTrackList__moreLink:hover{background-color: black !important; color: white !important} /* Fixes stream playlist expand btn */
+.commentFormDisabled{background-color: black !important;} /* Fixes background of Comments Disabled box */
