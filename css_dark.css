@@ -159,3 +159,5 @@ textarea, select, input{background: #000 !important}
 .quotaMeterWrapper{background-color: unset !important;} /* Fixes free upload limit background */
 .compactTrackList__moreLink:focus, .compactTrackList__moreLink:hover{background-color: black !important; color: white !important} /* Fixes stream playlist expand btn */
 .commentFormDisabled{background-color: black !important;} /* Fixes background of Comments Disabled box */
+.streamHTUpsell{background-color: #292929 !important;} /* In-stream banners */
+.emptyNetworkPage__image{filter: invert(80%) !important;} /* Fix empty profile page */
