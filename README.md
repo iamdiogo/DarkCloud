@@ -22,7 +22,7 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog:
 
-### v2019.12.08:
+### v2019.12.8:
 Thanks to Franckevicius and MyNameIsJulian:
 - Fixed "Comments disabled" box
 - Fixed empty profile page
