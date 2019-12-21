@@ -1,5 +1,5 @@
 # DarkCloud - Dark mode for SoundCloud
-![users](https://img.shields.io/chrome-web-store/d/mjicdmidmifkppilbbcanmnljpffmfmh.svg?label=users)
+![users](https://img.shields.io/chrome-web-store/d/mjicdmidmifkppilbbcanmnljpffmfmh.svg?label=users) ![Mozilla Add-on](https://img.shields.io/amo/rating/darkcloud-original) ![GitHub](https://img.shields.io/github/license/iamdiogo/darkcloud)
 
 This extension will help your SoundCloud look way cooler than it normally is.
 Who doesn't like the darker taste of websites?
