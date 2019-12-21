@@ -14,7 +14,7 @@ Who doesn't like the darker taste of websites?
 
 Either because it's cooler or you just want to go easy on your eyes, this extension is for you.
 
-![screenshot](https://github.com/iamdiogo/DarkCloud/blob/master/images/screencroped.png)
+![screenshot](https://github.com/iamdiogo/DarkCloud/blob/master/images/screennew.png)
 
 Feel absolutely free to contribute to it, I will be more than happy.
 
