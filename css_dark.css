@@ -162,4 +162,5 @@ textarea, select, input{background: #000 !important}
 .streamHTUpsell{background-color: #292929 !important;} /* In-stream banners */
 .emptyNetworkPage__image{filter: invert(80%) !important;} /* Fix empty profile page */
 .sc-font-body{font-weight: 500 !important;} /* Make body font slightly thicker for readability */
-.featuredProfiles__item h3{filter: invert(100%) !important;} /* Fix featured profiles text */
+.featuredProfiles__item h3{filter: invert(100%) !important;} /* Fix featured profiles text 1/2 */
+.featuredProfiles__list .sc-status-icon{filter: invert(100) !important;} /* Fix featured profiles text 2/2 */
