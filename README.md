@@ -17,6 +17,15 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog
 
+### v2020.01.28:
+Thanks to MyNameIsJulian and Franckevicius:
+- Fixed featured profiles text
+- Fixed the badge in featured profiles
+
+Thanks to MyNameIsJulian:
+- Made body font slightly thicker for readability
+- Fixed delete playlist button icon
+
 ### v2019.12.8:
 Thanks to Franckevicius and MyNameIsJulian:
 - Fixed "Comments disabled" box
