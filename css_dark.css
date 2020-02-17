@@ -26,6 +26,7 @@ a.sc-link-dark{filter: invert(100%) !important;}
 .soundContext__line .sc-ministats{color: #fff !important}
 .sc-border-light-right{border-right: 1px solid #F85402 !important}
 .sc-border-light-bottom{border-bottom: 1px solid #F85402 !important}
+li.trackList__item.sc-border-light-bottom{border-bottom: 1px solid #3a3a3a !important;}
 .playControls__inner, .playControls__bg{border-top: unset !important}
 .playbackSoundBadge__showQueue{filter: invert(100%) !important;}
 .sc-button{color: #fff !important; border: 0px solid #fff !important}
