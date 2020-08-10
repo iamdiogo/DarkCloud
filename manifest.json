@@ -1,8 +1,8 @@
 {
   "name": "DarkCloud",
   "description": "SoundCloud Dark Theme",
-  "version": "2020.01.28",
-  "permissions": ["activeTab"],
+  "version": "2020.08.10",
+  "permissions": [],
   "icons": {"128": "darklogo.png" },
   "background": {
     "scripts": ["background.js"]
