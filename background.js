@@ -3,6 +3,8 @@ window.addEventListener('DOMNodeRemoved', function() {
     var head = document.getElementsByTagName('head')[0],
       link = document.createElement('link');
 
+    if (!head){ return; }
+
     link.id     = 'darkstyle_css';
     link.rel    = 'stylesheet';
     link.type   = 'text/css';
