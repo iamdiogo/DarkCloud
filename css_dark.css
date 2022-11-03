@@ -167,3 +167,4 @@ textarea, select, input{background: #000 !important}
 .sc-button-delete::before{filter: invert(100%) !important;} /* Fix delete playlist button */
 .sc-button-small.sc-button-lightfg:before{filter: unset !important;} /* Fix playlist preview song buttons */
 .banner{background-color: #555555 !important;} /* Fixes banner and makes it compatible with the text */
+.insightsSidebarModule__title{filter: invert(100%) !important;} /* Fix artist insight text*/
