@@ -166,6 +166,8 @@ textarea, select, input{background: #000 !important}
 .featuredProfiles__list .sc-status-icon{filter: invert(100) !important;} /* Fix featured profiles text 2/2 */
 .sc-button-delete::before{filter: invert(100%) !important;} /* Fix delete playlist button */
 .sc-button-small.sc-button-lightfg:before{filter: unset !important;} /* Fix playlist preview song buttons */
+.banner{background-color: #555555 !important;} /* Fixes banner and makes it compatible with the text */
+.insightsSidebarModule__title{filter: invert(100%) !important;} /* Fix artist insight text*/
 .sc-classic .keyboardShortcuts__shortcutsGroup>dl>dt>kbd>kbd {background: #222222 !important; } /* Removing the white background in the "Keyboard Shortcuts" page*/
 .image__whiteOutline .image__full {border: 2px solid #161719 !important;} /* Removing the white borders from avatars in the stream page*/
 .sc-classic .artistShortcutTile__badge {border: 2px solid #161719 !important;} /* Removing the white borders from the orange icon near the "Latest from people you know" header*/
