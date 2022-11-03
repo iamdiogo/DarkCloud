@@ -76,7 +76,7 @@ textarea, select, input{background: #000 !important}
 .g-tabs-link:hover, .g-tabs-link:focus{border-color: #fff !important}
 .dropbar__content{background-color: #0c0c0c !important}
 .infoStats__value{color: #fff !important}
-.truncatedAudioInfo.m-overflow.m-collapsed .truncatedAudioInfo__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1)90%,#000) !important}
+.truncatedAudioInfo.m-overflow.m-collapsed .truncatedAudioInfo__wrapper::after{background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,.1) 90%,#000) !important}
 .sc-button-selected.sc-button-medium.sc-button-like:before{filter: invert(0%) !important;}
 .sc-button-medium.sc-button-like:before{filter: invert(100%) !important;}
 .sc-button-selected.sc-button-medium.sc-button-repost:before{filter: invert(0%) !important;}
@@ -168,3 +168,6 @@ textarea, select, input{background: #000 !important}
 .sc-button-small.sc-button-lightfg:before{filter: unset !important;} /* Fix playlist preview song buttons */
 .banner{background-color: #555555 !important;} /* Fixes banner and makes it compatible with the text */
 .insightsSidebarModule__title{filter: invert(100%) !important;} /* Fix artist insight text*/
+.sc-classic .keyboardShortcuts__shortcutsGroup>dl>dt>kbd>kbd {background: #222222 !important; } /* Removing the white background in the "Keyboard Shortcuts" page*/
+.image__whiteOutline .image__full {border: 2px solid #161719 !important;} /* Removing the white borders from avatars in the stream page*/
+.sc-classic .artistShortcutTile__badge {border: 2px solid #161719 !important;} /* Removing the white borders from the orange icon near the "Latest from people you know" header*/
