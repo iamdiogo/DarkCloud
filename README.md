@@ -17,6 +17,11 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog
 
+### v2022.11.06:
+- Fixed artist insight text (thanks to a-pillow)
+- Fixed keyboard shortcuts menu (thanks to nicoluvas)
+- Removed white border from likes, reposts and latest sections (thanks to nicoluvas)
+
 ### v2020.01.28:
 Thanks to MyNameIsJulian and Franckevicius:
 - Fixed featured profiles text
