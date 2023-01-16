@@ -171,3 +171,6 @@ textarea, select, input{background: #000 !important}
 .sc-classic .keyboardShortcuts__shortcutsGroup>dl>dt>kbd>kbd {background: #222222 !important; } /* Removing the white background in the "Keyboard Shortcuts" page*/
 .image__whiteOutline .image__full {border: 2px solid #161719 !important;} /* Removing the white borders from avatars in the stream page*/
 .sc-classic .artistShortcutTile__badge {border: 2px solid #161719 !important;} /* Removing the white borders from the orange icon near the "Latest from people you know" header*/
+.whoToFollowModule .sidebarHeader__title {white-space: nowrap; display: grid; grid-template-columns: auto 1fr;} /* Forbid who to follow module title to wrap. */
+.whoToFollowModule .sidebarHeader__actualTitle {overflow: hidden; text-overflow: ellipsis;} /* Hide who to follow module title overflow. */
+.whoToFollowModule .sidebarHeader__more {white-space: nowrap} /* Forbid who to follow module reload text to wrap. */
