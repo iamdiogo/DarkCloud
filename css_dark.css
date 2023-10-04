@@ -171,3 +171,4 @@ textarea, select, input{background: #000 !important}
 .sc-classic .keyboardShortcuts__shortcutsGroup>dl>dt>kbd>kbd {background: #222222 !important; } /* Removing the white background in the "Keyboard Shortcuts" page*/
 .image__whiteOutline .image__full {border: 2px solid #161719 !important;} /* Removing the white borders from avatars in the stream page*/
 .sc-classic .artistShortcutTile__badge {border: 2px solid #161719 !important;} /* Removing the white borders from the orange icon near the "Latest from people you know" header*/
+.sc-classic .listenArtistInfo__report .reportCopyright, .sc-classic .listenArtistInfo__report .reportNea {margin-top: 14px !important; filter: none !important;} /* Cancelling the filter property that makes the "Report" button white*/
