@@ -172,3 +172,10 @@ textarea, select, input{background: #000 !important}
 .image__whiteOutline .image__full {border: 2px solid #161719 !important;} /* Removing the white borders from avatars in the stream page*/
 .sc-classic .artistShortcutTile__badge {border: 2px solid #161719 !important;} /* Removing the white borders from the orange icon near the "Latest from people you know" header*/
 .sc-classic .listenArtistInfo__report .reportCopyright, .sc-classic .listenArtistInfo__report .reportNea {margin-top: 14px !important; filter: none !important;} /* Cancelling the filter property that makes the "Report" button white*/
+.sc-classic .profileMenu .headerMenu__link{background: #161719;color: white;} /* User menu dropdown colors */
+.sc-classic .m-light .headerMenu__link, .sc-classic .m-light .headerMenu__link:focus, .sc-classic .m-light .headerMenu__link:hover {color: black !important} /* Dropdown font color */
+.sc-classic .profileMenu .headerMenu__link {color: white !important;} /* User menu dropdown text */
+.sc-classic .profileMenu .headerMenu__link:after {filter: invert(1)} /* User menu dropdown icons */
+.sc-classic .profileMenu:hover .headerMenu__link:hover{background: white;color: black;} /* Invert the user menu dropdown colors on hover */
+.sc-classic .profileMenu:hover .headerMenu__link:hover .sc-classic .profileMenu .headerMenu__link:after{filter: none !important} /*  */
+.sc-classic .headerMenu.m-light {border:2px solid #343434 !important} /* User menu dropwdown border  */
