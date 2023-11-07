@@ -70,6 +70,7 @@ textarea, select, input{background: #000 !important}
 .queueItemView:hover, .queueItemView.m-active{background: #151619 !important}
 .header{background: #111111 !important}
 .sc-border-light-top{border-top: 1px solid #44494f !important}
+.commentBadgeList__item:first-child {border-top: 0 !important;} /* Do not display a border for first comment on profile page. */
 .profileHeaderBackground{background: #111111 !important}
 .l-fixed-top-one-column>.l-top{background: #161719 !important} /* Fixes profile's likes page header */
 .sc-button-medium.sc-button-message:before{filter: invert(100%) !important;}
@@ -174,3 +175,30 @@ textarea, select, input{background: #000 !important}
 .whoToFollowModule .sidebarHeader__title {white-space: nowrap; display: grid; grid-template-columns: auto 1fr;} /* Forbid who to follow module title to wrap. */
 .whoToFollowModule .sidebarHeader__actualTitle {overflow: hidden; text-overflow: ellipsis;} /* Hide who to follow module title overflow. */
 .whoToFollowModule .sidebarHeader__more {white-space: nowrap} /* Forbid who to follow module reload text to wrap. */
+.sc-classic .listenArtistInfo__report .reportCopyright, .sc-classic .listenArtistInfo__report .reportNea {margin-top: 14px !important; filter: none !important;} /* Cancelling the filter property that makes the "Report" button white*/
+.sc-classic .profileMenu .headerMenu__link{background: #242424;color: white;} /* User menu dropdown colors */
+.sc-classic .m-light .headerMenu__link, .sc-classic .m-light .headerMenu__link:focus, .sc-classic .m-light .headerMenu__link:hover {color: black !important} /* Dropdown font color */
+.sc-classic .profileMenu .headerMenu__link {color: white !important;} /* User menu dropdown text */
+.sc-classic .profileMenu .headerMenu__link:after {filter: invert(1)} /* User menu dropdown icons */
+.sc-classic .profileMenu:hover .headerMenu__link:hover{background: white;color: black;} /* Invert the user menu dropdown colors on hover */
+.sc-classic .profileMenu:hover .headerMenu__link:hover .sc-classic .profileMenu .headerMenu__link:after{filter: none !important} /*  */
+.sc-classic .headerMenu.m-light {background-color: #272727 !important;border:2px solid #242424 !important} /* User menu dropwdown border  */
+.sc-classic .dropdownContent__container {filter:invert(1) hue-rotate(188deg)}
+.sc-classic .notificationBadge.m-small .notificationBadge__main, .sc-classic .notificationBadge.m-small .notificationBadge__side {filter: invert(1) hue-rotate(172deg)}
+.sc-classic .dropdownContent__header h2{filter: invert(1);}
+.sc-classic .dropdownContent__footerLink {filter:brightness(1) !important}
+.sc-classic .notificationBadge__main{color:white}
+.notificationBadge__main>span {color: #b6b6b6}
+.sc-classic .m-light .headerMenu__list {border:none !important}
+.sc-classic .m-light .headerMenu__link, .sc-classic .m-light .headerMenu__link:focus, .sc-classic .m-light .headerMenu__link:hover {color: white !important;}
+.sc-classic .headerMenu .m-light{background-color: #242424 !important;border: 1px solid grey !important;border-top: 0px !important}
+.sc-classic .compactTrackList {border: none !important}
+.sc-border-light-right{border-right: 1px solid #2b2b2b !important} /* vertical and horizontal lines dividing the app */
+.sc-border-light-bottom {border-bottom: 1px solid #323232 !important} /* lists tracks border */
+a.sc-link-light {border: none !important} /* lists tracks border */
+.sc-classic .compactTrackListItem__number, .sc-classic .compactTrackListItem__trackTitle{color:#b2b2b2 !important} /* list track number */
+::-webkit-scrollbar { width: 9px !important; height: 9px !important; } /* scrollbar */
+::-webkit-scrollbar-track { background-color: #414141 !important; } /* scrollbar */
+::-webkit-scrollbar-thumb { background-color: #272727 !important; border-radius: 14px !important; } /* scrollbar */
+::-webkit-scrollbar-thumb:hover { background-color: #1b1b1b !important; } /* scrollbar */
+.commentItem__body, .commentItem__replyButton, .commentItem__usernameLink {color: #fff !important;} /*Fixed black text in comments to white*/
