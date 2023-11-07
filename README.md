@@ -17,6 +17,12 @@ Also, if you found a bug, please report it back to me.
 
 ## Changelog
 
+### v2023.11.07:
+- Added dark color scheme (thanks to juanoliveira82)
+- Fixed border for comment section (thanks to aknorw)
+- Added dark theme to missing menus (thanks to vittoopugliese)
+- Fixed comments color (thanks to sdsdsdw)
+
 ### v2022.11.06:
 - Fixed artist insight text (thanks to a-pillow)
 - Fixed keyboard shortcuts menu (thanks to nicoluvas)
