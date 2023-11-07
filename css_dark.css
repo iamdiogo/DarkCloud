@@ -70,6 +70,7 @@ textarea, select, input{background: #000 !important}
 .queueItemView:hover, .queueItemView.m-active{background: #151619 !important}
 .header{background: #111111 !important}
 .sc-border-light-top{border-top: 1px solid #44494f !important}
+.commentBadgeList__item:first-child {border-top: 0 !important;} /* Do not display a border for first comment on profile page. */
 .profileHeaderBackground{background: #111111 !important}
 .l-fixed-top-one-column>.l-top{background: #161719 !important} /* Fixes profile's likes page header */
 .sc-button-medium.sc-button-message:before{filter: invert(100%) !important;}
