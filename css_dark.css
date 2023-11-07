@@ -202,3 +202,5 @@ a.sc-link-light {border: none !important} /* lists tracks border */
 ::-webkit-scrollbar-thumb { background-color: #272727 !important; border-radius: 14px !important; } /* scrollbar */
 ::-webkit-scrollbar-thumb:hover { background-color: #1b1b1b !important; } /* scrollbar */
 .commentItem__body, .commentItem__replyButton, .commentItem__usernameLink {color: #fff !important;} /*Fixed black text in comments to white*/
+
+:root {color-scheme: dark;} /* Adds a color-scheme to the site, making the scrollbar dark */
