@@ -1,15 +1,15 @@
-window.addEventListener('DOMNodeRemoved', function() {
-  if (document.getElementById('darkstyle_css') == null) {
-    var head = document.getElementsByTagName('head')[0],
-      link = document.createElement('link');
+const link = document.createElement('link');
 
-    link.id     = 'darkstyle_css';
-    link.rel    = 'stylesheet';
-    link.type   = 'text/css';
-    link.href   = chrome.extension.getURL('css_dark.css');
-    link.media  = 'all';
+link.rel  = 'stylesheet';
+link.type = 'text/css';
+link.href = chrome.extension.getURL('css_dark.css');
 
-    head.appendChild(link);
-  }
-});
+const observer = new MutationObserver(() => link.parentNode == null && document.head.appendChild(link));
 
+setTimeout(() => {
+    document.head.appendChild(link);
+    document.body.style.background = '#000';
+    observer.observe(document, { childList: true, subtree: true });
+}, 0);
+
+window.addEventListener('load', () => void document.body.style.removeProperty('background'), { passive: true, once: true });
